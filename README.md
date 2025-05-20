@@ -1,5 +1,5 @@
 ```
-Devolped by:S.Dharshini
+Developed by:S.Dharshini
 Reg no: 212224040074
 Department: CSE
 ```
@@ -28,7 +28,7 @@ If y represents the dependent variable and x the independent variable, this rela
 # Program :
 
 ```
-Devolped by:S.Dharshini
+Developed by:S.Dharshini
 Reg no:212224040074
 
 import numpy as np
